@@ -26,8 +26,8 @@
         ]
     ],
     "persist": [
-        "CUE Tools\\settings.txt",
-        "CUERipper\\settings.txt"
+        "CUE Tools",
+        "CUERipper"
     ],
     "checkver": {
         "github": "https://github.com/gchudov/cuetools.net"
