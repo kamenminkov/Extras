@@ -1,12 +1,12 @@
 {
     "homepage": "https://openwork.software/",
-    "version": "0.17.40",
+    "version": "0.17.41",
     "description": "An open-source alternative to Claude Cowork, powered by opencode ",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/different-ai/openwork/releases/download/v0.17.40/openwork-win-x64-0.17.40.exe#/dl.7z",
-            "hash": "c18573d46cd85f443a1ccdc05a5e4f990fdfda414e2c18fd711814039fbcc155",
+            "url": "https://github.com/different-ai/openwork/releases/download/v0.17.41/openwork-win-x64-0.17.41.exe#/dl.7z",
+            "hash": "2e1c36e4daac4de0ec109911ebc1e0b308cb5e7e9b1321bd41e3d6965265c042",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\" -Removal",
                 "Remove-Item \"$dir\\`$*\" -Force -Recurse"
